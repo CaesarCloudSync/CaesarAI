@@ -1,0 +1,26 @@
+Descending both:
+caesartranslatetime0=0:06:41.507003,minimumsilence=2000,keepsilence=500
+caesartranslatetime1=0:07:58.418277,minimumsilence=3000,keepsilence=600
+caesartranslatetime0=0:06:27.436003,minimumsilence=2000,keepsilence=500
+caesartranslatetime1=0:05:01.426260,minimumsilence=1000,keepsilence=400
+caesartranslatetime2=0:04:46.978284,minimumsilence=500,keepsilence=300
+caesartranslatetime3=0:06:08.605827,minimumsilence=250,keepsilence=200
+caesartranslatetime4=0:08:21.553482,minimumsilence=125,keepsilence=100
+caesartranslatetime5=0:13:06.405172,minimumsilence=63,keepsilence=50
+
+Descending minimumsilence and Ascending keepsilence
+caesartranslatetime0=0:06:31.190997,minimumsilence=2000,keepsilence=50
+caesartranslatetime1=0:05:01.023890,minimumsilence=1000,keepsilence=100
+caesartranslatetime2=0:04:53.845046,minimumsilence=500,keepsilence=200
+caesartranslatetime3=0:05:56.363097,minimumsilence=250,keepsilence=300
+caesartranslatetime4=0:08:41.543827,minimumsilence=125,keepsilence=400
+caesartranslatetime5=0:13:58.380084,minimumsilence=63,keepsilence=500
+
+Ascending minimumsilence and Descending keepsilence
+caesartranslatetime0=0:13:30.594782,minimumsilence=63,keepsilence=500
+caesartranslatetime1=0:08:18.863337,minimumsilence=125,keepsilence=400
+caesartranslatetime2=0:06:01.245062,minimumsilence=250,keepsilence=300
+caesartranslatetime3=0:04:51.109213,minimumsilence=500,keepsilence=200
+caesartranslatetime4=0:04:54.231341,minimumsilence=1000,keepsilence=100
+caesartranslatetime5=0:06:30.706864,minimumsilence=2000,keepsilence=50
+

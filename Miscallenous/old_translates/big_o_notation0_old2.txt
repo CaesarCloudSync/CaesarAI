@@ -1,0 +1,25 @@
+Turn off my page there's a set of objects of objects of values and be able to derive the time complexity of an algorithm ok i would suggest that the logarithmic functions and the constant linear and polynomial functions are all of. 
+Turn off my page there's a set of objects of values of object of values and be able to derive the time complexity of an algorithm ok i would suggest that the logarithmic functions and the constant linear and polynomial functions are all obvious. 
+So we can someone that the number so you can write down at the title how we going to do this. 
+It's finished now. 
+Location on this but you can tell me in a minute when you've done all the numbers 1 to 2000 using the following algorithm there it is all we can use the single statement which is some = 1000 x 1000 +. 
+Location on this but you can tell me in a minute when you've done all the numbers 1 to 2000 using the following algorithm there it is all we can use the single statement which is some = 1000 x 1000 + 1/2. 
+It's a very very simple if you look at it it's basically saying you've got a thousand you've got one yeah and he / 2 that's your average value and many x 1000. 
+That's the average value of the thousand things this is the number of the number of data points so that the the sun or you can go through iterate through 1000 items and add each one to the to the sun to get some which is the more efficient way to do it. 
+Doing things the way that you would do as a computer scientist or as a programmer it's really helpful to have a mathematical head on you to be thinking what does a match mate so that's one step that's 1000 steps that's going to take the normal roughly 1000 of the time of that one yeah. 
+Doing things the way that you would do as a computer scientist or as a programmer it's really helpful to have a mathematical head on you to be thinking what does a match mate that's one step that's 1000 steps that's going to take the normal roughly 1000 of the time of that one yeah yeah is that right. 
+The number of assignments take to get to the first album of them as 1001 that's because you've got the the sun equals 0 number summary for some plus account and x in the second only to to staples and needed and is 1000mm that one the number of assignment statement is a good. 
+The number of assignments take to get to the first album of them as 1001 that's because you've got the the sun equals 0 number summary for some plus account and x in the second only to to staples and needed and is 1000mm that one the number of assignment statement is a good basic measure of efficiency. 
+Why is that what's an assignment statement doing something. 
+Where is it the number of assignment statements in some code is a good measure a good basic measure of a fishing. 
+Right ok so the most problems the larger the size of the problem amount of data the longer the execution time so something = 12 nn4 how many statements in the second algorithm some equal some. 
+Right ok so the most problems the larger the size of the problem amount of data the longer the execution time so something = 12 nn4 how many statements in the second algorithm some equal some plus and times and plus 1. 
+So what's that saying this is just isn't it. 
+X and plus one if that's going in there then they're saying that that going to be and squared isn't it there's more steps because it happened to have two lots of going i think. 
+That's wrong because i summon you get rid of that statement that's where they want you to end up so a function is defined by an equation. 
+And if you're going to put that into a into into code will be producing something like this so why cos 3x + 2 can be written also as funk is a function of n which equals 3 and + 2 and where they're going to go with they're going to go into whether something to check whether it's. 
+And if you're going to put that into a into into code will be producing something like this so why cos 3x + 2 can be written also as funk is a function of n which equals 3 and + 2 and where they're going to go with they're going to go into whether something to check whether it's it what type of an equation it is. 
+And this is the graph that you're talking about po function takes the form f n = a m + b where a and b are constants ok and you write the order of magnitude for a linear function as 0en. 
+And this is the graph that you're talking about po function takes the form f n = a m + b where a and b are constants ok and you write the order of magnitude for a linear function as 0n the big o. 
+And this is the graph that you're talking about po function takes the form f n = a m + b where a and b are constants ok and you write the order of magnitude for a linear function as 0n the big is the order. 
+Off the function so in terms of time if you double the time you double it if you double the number of items which are looking at you double the time. 

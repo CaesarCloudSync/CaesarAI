@@ -1,0 +1,226 @@
+Turn off my page there's a set of objects so bad. 
+The big o notation time complexity and be able to derive the time complexity of an algorithm. 
+The logarithmic function. 
+And the. 
+Constant linear and polynomial functions are all of. 
+Yeah and the exponential have slightly left. 
+We can summon the number so. 
+You can write down at the title how are you going to do this. 
+Algorithms. 
+So you say you've done this in detail group h. 
+Ok we doing album so we did. 
+We're not doing and so we finished now. 
+Learning work. 
+Need to be associated with. 
+And the question of the day. 
+Location. 
+Yeah we've got on this but you can tell me in a minute when you've done. 
+So we can some the numbers 1 to 2000 using the following algorithm there it is all we can use the single statement which is some = 1000 x 1000 +. 
+Which actually to be fair is what you doing a little maps. 
+You have a series. 
+Can you take the. 
+The first time in the last term and you add them and you divide by 2. 
+X the number of items in the series. 
+It's a very very simple if you look at it it's basically saying you've got 1000. 
+You've got one. 
+And the divide by 2 that's your average value and many x 1000. 
+Ok. 
+That's the average value of the thousand things. 
+This. 
+The number. 
+The number of. 
+So that's the. 
+Or you can go through iterate through 1000 items and add each wanted to the sun. 
+To get the song. 
+Which is the most efficient way to. 
+Quite often. 
+Doing things the way that you would do as a computer scientist or as a program. 
+It's really helpful to have a massive forehead on you to be thinking what is a match match. 
+That's one step that's 1000. 
+That's going to take the powder. 
+Roughly 1000 of the time. 
+The number of assignments take to get to the first algorithm. 
+1001. 
+That's because you've got. 
+The something equals 0 number something for some plus. 
+1000 x. 
+Two statements are needed. 
+The number of assignment statement is a good. 
+Basic measure of efficiency. 
+Why is that what's an assignment statement doing something. 
+Memory. 
+That first date. 
+Where is it the number of assignment statement sentence. 
+Is a good measure a good basic measure of. 
+Can we expect the second. 
+What are the five. 
+Sofa most problems. 
+The larger the size of the problem amount of data the longer. 
+So. 
+4 count equals 12-in. 
+How many statement. 
+In the second album. 
+Some equals some. 
+Plus and times and plus 1. 
+So. 
+What's that saying. 
+Adder snake. 
+Is taking any. 
+No sorry that first one. 
+Is 10 steps. 
+This one here. 
+Give this. 
+Time. 
+That's one that's going in there then they're saying that. 
+Going to be squares. 
+Steps. 
+It happened to. 
+I have two lots of and going. 
+This is this is just this summer. 
+That's wrong. 
+Summon. 
+Get rid of that statement. 
+Whether going is there going into functions. 
+That's where they want you to end up so a function defined by an equation. 
+And if you're going to put that into a. 
+Into into code producing something like this. 
+So why was 3 x + 2 can be written also. 
+Song is a function of. 
+How much equals 3 m + 2 to go into whether something to check whether it's. 
+What type of an equation it is. 
+And this is the graph that you're talking about po function takes the form f n = a m + b. 
+Where am i by constance. 
+And you write the order of magnitude for a linear function as 0. 
+The big o. 
+Is the order. 
+Off the junction. 
+So in terms of time. 
+If you double the time. 
+You double the number of items that you looking at you. 
+Go to that example. 
+Basically. 
+Adding. 
+Account. 
+Every time. 
+If you. 
+Twice as many items to come through. 
+1500 long. 
+If any is 2000 and 3500 take 4 times as long. 
+So going through to hear what they're saying is the time so for the number of items if you double the number of the time for the coach and run if you've got something actually if you've got a an equation which is for example white one wife was 10. 
+No variables in it at all then it's only ever going to have one value it's. 
+It doesn't matter it's always. 
+Yeah so. 
+That's where this bit was confusing me going it was going towards the idea of a linear function. 
+So you've got. 
+Linear function taking the form of fm = am plus. 
+Constance. 
+Don't suggest examples. 
+Put down the order of magnitude. 
+No it's not that. 
+F1 is a constant function. 
+F1 stay the same size. 
+Ok after leanne. 
+Is that linear function. 
+It's order is. 
+Turn on your property. 
+Quadratic function so a quadratic function. 
+Takes the form of a square + b and + c. 
+Where i am being sick constant as n becomes larger the end square time increases very much faster. 
+Turn the radio times order of magnitude of a quadratic function is written as. 
+The dominant term is the one used when comparing algorithms so we ignore the bmmc. 
+Set the thing which is determining the order of magnitude of the result. 
+And square. 
+Go back to that one which was confusing earlier this one. 
+That's what i think they were getting out there but it should have been inside code i think they. 
+They just copy the slide. 
+A couple of sites that. 
+Here. 
+Should have had that in there. 
+I think they meant to have that and that's comparable. 
+But it wasn't. 
+What's the back on. 
+Who was that right then. 
+Do the same thing. 
+There were two different functions one was a quadratic the other one was ok. 
+If it's written like that. 
+What is written in code as an equation. 
+Then it's actually very easy to determine. 
+Where what the order. 
+Function is. 
+Whether it's. 
+Static linear or quadratic. 
+Embedded in code and you've got to understand what the code is doing. 
+Is that an alien. 
+The alien thing on friday. 
+I've got a set of earbuds. 
+Aliens. 
+But i don't think mine. 
+I'm not sure. 
+Take them out of the little charging port. 
+Play light up with the lady. 
+What is the cheapest time to get off amazon. 
+Just interested to do that if you were to get one. 
+Play date. 
+Very much. 
+And the back of my laptop. 
+What is the dominant tenement. 
+It's the one that's if you're in a minute there's next. 
+When we get to do the worksheet for the second time. 
+You'll see that there is. 
+Play something to do with. 
+It's the thing which is having the biggest influence on the order of magnitude of the. 
+That's why they're saying the others are relatively unimportant. 
+They're not they're not zero. 
+In terms of the answers to this when you start looking at it if they say in fact and approximately. 
+Broadly speaking in something is. 
+Determined by. 
+Ok. 
+A logarithmic function. 
+Takes this form because i love. 
+Add. 
+Rhythm of a number is the power to which the base must be raised. 
+To make it equal to that number. 
+So what if you do with these so. 
+100000 x 24. 
+Set. 
+It's basically giving you the index. 
+In the simplest case. 
+So this is love. 
+Giving you. 
+That's what this is saying that is too cute. 
+Log to the base 2 of 3. 
+Just giving india. 
+The power. 
+They aren't all numbers so you know if this was 1200 something like that yeah that would be. 
+Something. 
+Broadly speaking. 
+The log is giving you. 
+The power. 
+Off the. 
+Search for space planets. 
+Extendable. 
+What this means if you're taking very very large numbers you take logs of them you certainly start getting quite manageable numbers out and you can put those graph so log log graph semi-log plots i used a lot in physics i guess they might be used for large data sets and economics and business as well. 
+We used to do this in the second year of school when i was when i was a child. 
+Logs. 
+It's just a function on a calendar calculator. 
+And. 
+Type 2. 
+Like you would. 
+Or sign on. 
+And it's. 
+It's the first step actually to bring out to do quite complex sums without a calculator. 
+To get tables as a second year so the tables had log tables and sine cos and tan in them so and we were expected to use that book of tables for the next four years and we weren't expecting calculator. 
+We had calculators they'd recently coming but haven't. 
+I never said i'm trying to get it. 
+Could you make the fighting on my calculator. 
+What is 2 ^ 10. 
+Log to the base 2 of 1024 is 10 springs. 
+Play capital. 
+Yes. 
+The logarithm of the number is the power to which the base must be raised to make it equal to the number. 
+Those things darragh or compressed in the middle of the same as this. 
+Wheelbase to. 
+But the key thing is. 
+Set the function increases very slowly in relation to n. 
+In maths do you do natural log in with them as well. 
+Ok sorry. 

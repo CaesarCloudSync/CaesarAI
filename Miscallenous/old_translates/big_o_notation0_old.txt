@@ -1,0 +1,592 @@
+Turn off my page there's a set of objects so bad. 
+The big o notation time complexity and be able to derive the time complexity of an algorithm. 
+The logarithmic function. 
+And the. 
+Constant linear and polynomial functions are all of. 
+Yeah and the exponential have slightly left. 
+We can summon the number so. 
+You can write down at the title how are you going to do this. 
+Algorithms. 
+So you say you've done this in detail group h. 
+Ok we doing album so we did. 
+We're not doing and so we finished now. 
+Learning work. 
+Need to be associated with. 
+And the question of the day. 
+Location. 
+Yeah we've got on this but you can tell me in a minute when you've done. 
+So we can some the numbers 1 to 2000 using the following algorithm there it is all we can use the single statement which is some = 1000 x 1000 +. 
+Which actually to be fair is what you doing a little maps. 
+You have a series. 
+Can you take the. 
+The first time in the last term and you add them and you divide by 2. 
+X the number of items in the series. 
+It's a very very simple if you look at it it's basically saying you've got 1000. 
+You've got one. 
+And the divide by 2 that's your average value and many x 1000. 
+Ok. 
+That's the average value of the thousand things. 
+This. 
+The number. 
+The number of. 
+So that's the. 
+Or you can go through iterate through 1000 items and add each wanted to the sun. 
+To get the song. 
+Which is the most efficient way to. 
+Quite often. 
+Doing things the way that you would do as a computer scientist or as a program. 
+It's really helpful to have a massive forehead on you to be thinking what is a match match. 
+That's one step that's 1000. 
+That's going to take the powder. 
+Roughly 1000 of the time. 
+The number of assignments take to get to the first algorithm. 
+1001. 
+That's because you've got. 
+The something equals 0 number something for some plus. 
+1000 x. 
+Two statements are needed. 
+The number of assignment statement is a good. 
+Basic measure of efficiency. 
+Why is that what's an assignment statement doing something. 
+Memory. 
+That first date. 
+Where is it the number of assignment statement sentence. 
+Is a good measure a good basic measure of. 
+Can we expect the second. 
+What are the five. 
+Sofa most problems. 
+The larger the size of the problem amount of data the longer. 
+So. 
+4 count equals 12-in. 
+How many statement. 
+In the second album. 
+Some equals some. 
+Plus and times and plus 1. 
+So. 
+What's that saying. 
+Adder snake. 
+Is taking any. 
+No sorry that first one. 
+Is 10 steps. 
+This one here. 
+Give this. 
+Time. 
+That's one that's going in there then they're saying that. 
+Going to be squares. 
+Steps. 
+It happened to. 
+I have two lots of and going. 
+This is this is just this summer. 
+That's wrong. 
+Summon. 
+Get rid of that statement. 
+Whether going is there going into functions. 
+That's where they want you to end up so a function defined by an equation. 
+And if you're going to put that into a. 
+Into into code producing something like this. 
+So why was 3 x + 2 can be written also. 
+Song is a function of. 
+How much equals 3 m + 2 to go into whether something to check whether it's. 
+What type of an equation it is. 
+And this is the graph that you're talking about po function takes the form f n = a m + b. 
+Where am i by constance. 
+And you write the order of magnitude for a linear function as 0. 
+The big o. 
+Is the order. 
+Off the junction. 
+So in terms of time. 
+If you double the time. 
+You double the number of items that you looking at you. 
+Go to that example. 
+Basically. 
+Adding. 
+Account. 
+Every time. 
+If you. 
+Twice as many items to come through. 
+1500 long. 
+If any is 2000 and 3500 take 4 times as long. 
+So going through to hear what they're saying is the time so for the number of items if you double the number of the time for the coach and run if you've got something actually if you've got a an equation which is for example white one wife was 10. 
+No variables in it at all then it's only ever going to have one value it's. 
+It doesn't matter it's always. 
+Yeah so. 
+That's where this bit was confusing me going it was going towards the idea of a linear function. 
+So you've got. 
+Linear function taking the form of fm = am plus. 
+Constance. 
+Don't suggest examples. 
+Put down the order of magnitude. 
+No it's not that. 
+F1 is a constant function. 
+F1 stay the same size. 
+Ok after leanne. 
+Is that linear function. 
+It's order is. 
+Turn on your property. 
+Quadratic function so a quadratic function. 
+Takes the form of a square + b and + c. 
+Where i am being sick constant as n becomes larger the end square time increases very much faster. 
+Turn the radio times order of magnitude of a quadratic function is written as. 
+The dominant term is the one used when comparing algorithms so we ignore the bmmc. 
+Set the thing which is determining the order of magnitude of the result. 
+And square. 
+Go back to that one which was confusing earlier this one. 
+That's what i think they were getting out there but it should have been inside code i think they. 
+They just copy the slide. 
+A couple of sites that. 
+Here. 
+Should have had that in there. 
+I think they meant to have that and that's comparable. 
+But it wasn't. 
+What's the back on. 
+Who was that right then. 
+Do the same thing. 
+There were two different functions one was a quadratic the other one was ok. 
+If it's written like that. 
+What is written in code as an equation. 
+Then it's actually very easy to determine. 
+Where what the order. 
+Function is. 
+Whether it's. 
+Static linear or quadratic. 
+Embedded in code and you've got to understand what the code is doing. 
+Is that an alien. 
+The alien thing on friday. 
+I've got a set of earbuds. 
+Aliens. 
+But i don't think mine. 
+I'm not sure. 
+Take them out of the little charging port. 
+Play light up with the lady. 
+What is the cheapest time to get off amazon. 
+Just interested to do that if you were to get one. 
+Play date. 
+Very much. 
+And the back of my laptop. 
+What is the dominant tenement. 
+It's the one that's if you're in a minute there's next. 
+When we get to do the worksheet for the second time. 
+You'll see that there is. 
+Play something to do with. 
+It's the thing which is having the biggest influence on the order of magnitude of the. 
+That's why they're saying the others are relatively unimportant. 
+They're not they're not zero. 
+In terms of the answers to this when you start looking at it if they say in fact and approximately. 
+Broadly speaking in something is. 
+Determined by. 
+Ok. 
+A logarithmic function. 
+Takes this form because i love. 
+Add. 
+Rhythm of a number is the power to which the base must be raised. 
+To make it equal to that number. 
+So what if you do with these so. 
+100000 x 24. 
+Set. 
+It's basically giving you the index. 
+In the simplest case. 
+So this is love. 
+Giving you. 
+That's what this is saying that is too cute. 
+Log to the base 2 of 3. 
+Just giving india. 
+The power. 
+They aren't all numbers so you know if this was 1200 something like that yeah that would be. 
+Something. 
+Broadly speaking. 
+The log is giving you. 
+The power. 
+Off the. 
+Search for space planets. 
+Extendable. 
+What this means if you're taking very very large numbers you take logs of them you certainly start getting quite manageable numbers out and you can put those graph so log log graph semi-log plots i used a lot in physics i guess they might be used for large data sets and economics and business as well. 
+We used to do this in the second year of school when i was when i was a child. 
+Logs. 
+It's just a function on a calendar calculator. 
+And. 
+Type 2. 
+Like you would. 
+Or sign on. 
+And it's. 
+It's the first step actually to bring out to do quite complex sums without a calculator. 
+To get tables as a second year so the tables had log tables and sine cos and tan in them so and we were expected to use that book of tables for the next four years and we weren't expecting calculator. 
+We had calculators they'd recently coming but haven't. 
+I never said i'm trying to get it. 
+Could you make the fighting on my calculator. 
+What is 2 ^ 10. 
+Log to the base 2 of 1024 is 10 springs. 
+Play capital. 
+Yes. 
+The logarithm of the number is the power to which the base must be raised to make it equal to the number. 
+Those things darragh or compressed in the middle of the same as this. 
+Wheelbase to. 
+But the key thing is. 
+Set the function increases very slowly in relation to n. 
+In maths do you do natural log in with them as well. 
+Ok sorry. 
+Sing in map in matthew wright you. 
+Talk about. 
+And eating them as well that's this year. 
+What you find it university of what i found computing university is at university day if you haven't got the number 10. 
+Someone writes log there is humanism. 
+University. 
+If they haven't given you any other information this evening at 4. 
+Because they're mathematicians and they're like leaving people other people confused him on the back foot. 
+I have no i don't know i don't know university by natural logs and andy exercise. 
+You left whatever his name. 
+Please mr heaney. 
+And it's boiler spelt as you wouldn't is that the person who made the. 
+That's a person after whom the kids are named but there's nothing to do. 
+Computer called an acorn archimedes archimedes involved in the process. 
+For a very long time they just like the name. 
+Something a newton or pulling something. 
+Udo. 
+Mystery. 
+Happy with this. 
+Logarithm. 
+The function that you're going to come across some sites. 
+Is a measure of the time complexity of an algorithm approximation to george that goes back to what you were just saying it's just an approximation. 
+What's the time taken to execute an algorithm for a given number of items in a dataset. 
+Time complexity 0 to the end increases in a linear way. 
+Set 10000 items. 
+Approximately twice as long as 5000. 
+You wouldn't right. 
+Got a time complexity of 2 m + 1 m. 
+New order of magnitude. 
+Only the dominant term camps. 
+Just to let you know the other thing i'm going to do for the 40 years and the lower 6 is going to find all of the work. 
+Place rather than being loose. 
+Like this is the same idea. 
+The beast you've got as you got very few. 
+Sections to go but i can do the same thing of binding to go there all the rain the reindeers speak to you as well so there in a booklet. 
+Would that help i'm having my sheets. 
+Today. 
+Turn the lights on. 
+Look at this algorithm. 
+What's the number of steps. 
+In this algorithm. 
+Want to end. 
+Put them within that and there's three. 
+So that's going to be ok. 
+So it's 10 + 3 and + 1. 
+4 + 1. 
+They're on 1 + 3 and + 10. 
+Where's the 10. 
+Why is that one. 
+This is an that's 3 x 3. 
+1 + 3 and + 10. 
+The algorithm has a time can. 
+And then there's the one. 
+Where's the 3nn. 
+So although it's. 
+Taking. 
+Just over 4 times as long as just for. 
+Range. 
+Sorry for. 
+It's going to be all time. 
+4 times 4 times as long. 
+This does make sense of it makes more sense. 
+They talk about using the dominant term. 
+Function if you got any time then yeah then that they're just saying and squared isn't a m squared or the saying back here as well that you don't have something with a complexity of computing what they don't have something with the complexity of the whole thing. 
+The function. 
+There's no such thing for example. 
+Add a time complexity of 2n + 1. 
+It would just be an so it's the biggest. 
+Power in the equation if you bring the function down. 
+Because it just makes like really confusing. 
+What you want to say simple. 
+Approximation of the order. 
+Of the time fun. 
+Just pulling out the dominant power in the equation. 
+And saying this is time. 
+It's not complicated it's simple. 
+It's a really good one at very. 
+Do you pulling out the dominant factor. 
+Constance so you are saying if something is going to take twice as long but if you were if it's an as opposed to n squared. 
+Then you're putting in 10 values. 
+Then 10 values is going to be. 
+10 or 20 squared it's going to be going up. 
+100. 
+Constant or whether it's going up in a quadratic way. 
+Is an example of this. 
+3 of 1024 ^ 10. 
+Only 10 items need to be examined. 
+Ok. 
+Probalance. 
+And then you have a menu. 
+I'm 43 of 2048 a 10 ^ 11. 
+Only 11 items need to be examined so time complete complexity increases very slowly as the dataset goes up so that's lovely rhythmic it's big o log n. 
+If you can do that if you can find something that works that way you want to do it that way. 
+Yes. 
+So this is helping you to say. 
+What's the most efficient algorithm. 
+And also to be aware of whether something scales well. 
+When people do things like writing websites if they put in function that don't scale. 
+That's when you. 
+I'm thinking at the moment. 
+Time of the doctor spring school of hair. 
+Is it. 
+What city do have some launches.end log if you log in i'm guessing the end is the dominant function as in you need to have a time complexity. 
+Because then you still got that probably that issue. 
+Each time you done. 
+You're wwe the number of values you have to look. 
+So you you would end up. 
+Is a linear function. 
+A bit like the end square. 
+5 + 4 function early. 
+Who was saying that you got at the end of the dominant function if you had any luck then. 
+I'm not sure. 
+It's a good question. 
+You can do it you can do it any. 
+Set it so when you start doing yet functions. 
+Squared and cubed. 
+Set alarm in the door. 
+Turn lights on. 
+Ok see you are saying that you have done this new done this fully not just passing away. 
+You've done this examples. 
+Obviously george and struggling to understand why. 
+Ok so you might have been doing. 
+Light down the shortest path algorithm. 
+Pronounce. 
+Right ok. 
+Ok. 
+As in the place down the falmouth university. 
+To be convinced. 
+Set remote with the site with a diversity. 
+Used to be a comment. 
+Play suits the capital of catholic and asia. 
+Like where a methodist foundation it run by nuns. 
+What do you think. 
+Set the kitchen to play. 
+When we die. 
+The eu. 
+Lots and lots and lots of chemistry. 
+Is connected to a computer is connected to a printer. 
+You've got boxing. 
+Play i don't by the porch. 
+What is wrong with you. 
+Probably. 
+Twisterella. 
+Deserve. 
+The time. 
+€20 volume. 
+Turn off my page there's a set of objects so bad. 
+The big o notation time complexity and be able to derive the time complexity of an algorithm. 
+The big o notation time complexity and be able to derive the time complexity of an algorithm. 
+The big o notation time complexity and be able to derive the time complexity of an algorithm. 
+The logarithmic function. 
+And the. 
+Constant linear and polynomial functions are all of. 
+Constant linear and polynomial functions are all of. 
+Yeah and the exponential have slightly left. 
+We can summon the number so. 
+You can write down at the title how are you going to do this. 
+You can write down at the title how are you going to do this. 
+Algorithms. 
+So you say you've done this in detail group h. 
+Ok we doing album so we did. 
+Ok we doing album so we did. 
+Ok we doing album so we did. 
+We're not doing and so we finished now. 
+We're not doing and so we finished now. 
+Learning work. 
+Need to be associated with. 
+And the question of the day. 
+And the question of the day. 
+Location. 
+Yeah we've got on this but you can tell me in a minute when you've done. 
+Yeah we've got on this but you can tell me in a minute when you've done. 
+Yeah we've got on this but you can tell me in a minute when you've done. 
+So we can some the numbers 1 to 2000 using the following algorithm there it is all we can use the single statement which is some = 1000 x 1000 +. 
+So we can some the numbers 1 to 2000 using the following algorithm there it is all we can use the single statement which is some = 1000 x 1000 +. 
+So we can some the numbers 1 to 2000 using the following algorithm there it is all we can use the single statement which is some = 1000 x 1000 +. 
+So we can some the numbers 1 to 2000 using the following algorithm there it is all we can use the single statement which is some = 1000 x 1000 +. 
+Which actually to be fair is what you doing a little maps. 
+Which actually to be fair is what you doing a little maps. 
+You have a series. 
+Can you take the. 
+The first time in the last term and you add them and you divide by 2. 
+The first time in the last term and you add them and you divide by 2. 
+X the number of items in the series. 
+It's a very very simple if you look at it it's basically saying you've got 1000. 
+It's a very very simple if you look at it it's basically saying you've got 1000. 
+It's a very very simple if you look at it it's basically saying you've got 1000. 
+You've got one. 
+And the divide by 2 that's your average value and many x 1000. 
+Turn off my page there's a set of objects so bad. 
+The big o notation time complexity and be able to derive the time complexity of an algorithm. 
+The logarithmic function. 
+And the. 
+Constant linear and polynomial functions are all of. 
+Yeah and the exponential have slightly left. 
+We can summon the number so. 
+You can write down at the title how are you going to do this. 
+Algorithms. 
+So you say you've done this in detail group h. 
+Ok we doing album so we did. 
+We're not doing and so we finished now. 
+Learning work. 
+Need to be associated with. 
+And the question of the day. 
+Location. 
+Yeah we've got on this but you can tell me in a minute when you've done. 
+So we can some the numbers 1 to 2000 using the following algorithm there it is all we can use the single statement which is some = 1000 x 1000 +. 
+Which actually to be fair is what you doing a little maps. 
+You have a series. 
+Can you take the. 
+The first time in the last term and you add them and you divide by 2. 
+X the number of items in the series. 
+It's a very very simple if you look at it it's basically saying you've got 1000. 
+You've got one. 
+And the divide by 2 that's your average value and many x 1000. 
+Ok. 
+That's the average value of the thousand things. 
+This. 
+The number. 
+The number of. 
+So that's the. 
+Or you can go through iterate through 1000 items and add each wanted to the sun. 
+To get the song. 
+Which is the most efficient way to. 
+Quite often. 
+Doing things the way that you would do as a computer scientist or as a program. 
+It's really helpful to have a massive forehead on you to be thinking what is a match match. 
+That's one step that's 1000. 
+That's going to take the powder. 
+Roughly 1000 of the time. 
+The number of assignments take to get to the first algorithm. 
+1001. 
+That's because you've got. 
+The something equals 0 number something for some plus. 
+1000 x. 
+Two statements are needed. 
+The number of assignment statement is a good. 
+Basic measure of efficiency. 
+Why is that what's an assignment statement doing something. 
+Memory. 
+That first date. 
+Where is it the number of assignment statement sentence. 
+Is a good measure a good basic measure of. 
+Can we expect the second. 
+What are the five. 
+Sofa most problems. 
+The larger the size of the problem amount of data the longer. 
+So. 
+4 count equals 12-in. 
+How many statement. 
+In the second album. 
+Some equals some. 
+Plus and times and plus 1. 
+So. 
+What's that saying. 
+Adder snake. 
+Is taking any. 
+No sorry that first one. 
+Is 10 steps. 
+This one here. 
+Give this. 
+Time. 
+That's one that's going in there then they're saying that. 
+Going to be squares. 
+Steps. 
+It happened to. 
+I have two lots of and going. 
+This is this is just this summer. 
+That's wrong. 
+Summon. 
+Get rid of that statement. 
+Whether going is there going into functions. 
+That's where they want you to end up so a function defined by an equation. 
+And if you're going to put that into a. 
+Into into code producing something like this. 
+So why was 3 x + 2 can be written also. 
+Song is a function of. 
+How much equals 3 m + 2 to go into whether something to check whether it's. 
+What type of an equation it is. 
+And this is the graph that you're talking about po function takes the form f n = a m + b. 
+Where am i by constance. 
+And you write the order of magnitude for a linear function as 0. 
+The big o. 
+Is the order. 
+Off the junction. 
+So in terms of time. 
+If you double the time. 
+You double the number of items that you looking at you. 
+Go to that example. 
+Basically. 
+Adding. 
+Account. 
+Every time. 
+If you. 
+Twice as many items to come through. 
+1500 long. 
+If any is 2000 and 3500 take 4 times as long. 
+Turn off my page there's a set of objects so bad. 
+The big o notation time complexity and be able to derive the time complexity of an algorithm. 
+The logarithmic function. 
+And the. 
+Constant linear and polynomial functions are all of. 
+Yeah and the exponential have slightly left. 
+We can summon the number so. 
+You can write down at the title how are you going to do this. 
+Algorithms. 
+So you say you've done this in detail group h. 
+Ok we doing album so we did. 
+We're not doing and so we finished now. 
+Learning work. 
+Turn off my page there's a set of objects so bad. 
+The big o notation time complexity and be able to derive the time complexity of an algorithm. 
+The logarithmic function. 
+And the. 
+Constant linear and polynomial functions are all of. 
+Turn off my page there's a set of objects so bad. 
+The big o notation time complexity and be able to derive the time complexity of an algorithm. 
+The logarithmic function. 
+And the. 
+Constant linear and polynomial functions are all of. 
+Yeah and the exponential have slightly left. 
+We can summon the number so. 
+You can write down at the title how are you going to do this. 
+Algorithms. 
+So you say you've done this in detail group h. 
+Ok we doing album so we did. 
+We're not doing and so we finished now. 
+Learning work. 
+Need to be associated with. 
+And the question of the day. 
+Location. 
+Yeah we've got on this but you can tell me in a minute when you've done. 
+So we can some the numbers 1 to 2000 using the following algorithm there it is all we can use the single statement which is some = 1000 x 1000 +. 
+Which actually to be fair is what you doing a little maps. 
+You have a series. 
+Can you take the. 
+The first time in the last term and you add them and you divide by 2. 
+X the number of items in the series. 
+It's a very very simple if you look at it it's basically saying you've got 1000. 
+You've got one. 
+And the divide by 2 that's your average value and many x 1000. 
+Ok. 
+That's the average value of the thousand things. 
+This. 
+The number. 
+The number of. 
+So that's the. 
+Or you can go through iterate through 1000 items and add each wanted to the sun. 
+To get the song. 
+Which is the official. 
+Quite often. 
+Doing things the way that you would do as a computer scientist or as a program. 
+It's really helpful to have a massive forehead on you to be thinking what is a match match. 
+That's one step that's 1000. 
+That's going to take the powder. 
+Roughly 1000 of the time. 
+The number of assignments take to get to the first algorithm. 
+1001. 
+That's because you've got. 
+The something equals 0 number something for some plus. 
+1000 x. 
+Two statements are needed. 
+The number of assignment statement is a good. 
+Basic measure of efficiency. 
+Why is that what's an assignment statement doing something. 
+Memory. 

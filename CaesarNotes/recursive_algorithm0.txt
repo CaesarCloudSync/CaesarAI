@@ -1,0 +1,120 @@
+Which so your course is not here you should have under algorithms you've got a recursion exercise i can see that. 
+What's the weather going to be today. 
+You're obviously putting the pseudocode in their makes it very very easy doesn't. 
+Problem nothing stuff. 
+Whose idea was it to create an indent. 
+You do this on here ok so they'll just wanting it to print the function with a value. 
+Don't they give you just yet. 
+Take this code and i'm not so again what i'm getting the. 
+Best than using a folder yes. 
+10 + 919 + 8. 
+32836. 
+57 + 6 + 7 + 28. 
+Is the first route reversal in order. 
+Like that it's like it out functions apart and then if you like that. 
+Download park shift bolt-down ship pub control control y. 
+Controlling you select all occurrences of the current selection ctrl shift l returns of the word jump to matching bracket that's interesting control shift back to the last text you to the matching bracket for the one that you're on ok. 
+Yes control shift. 
+Spam. 
+Well this is got this one. 
+Interview thing. 
+When you're on this first one which is on my board what should you have got to find kelp. 
+30 my goodness to you. 
+The very first function. 
+So to ennis for 4 times. 
+Calculate if you're calculating 4 factorial. 
+I know my son is not working something else. 
+The 19th of august. 
+Help you put in for you should get 4 x 3 x 2 which is 24. 
+That's fine so you just need to know so i just do that fact so fact. 
+You've got one that's not right so that back and ok that's fine if an = 0 without brackets and factorial = 1 factorial people's and x fact and -1. 
+Is always a uncommon test. 
+Comment regionbang about factorial = m x factor and -1. 
+Fact your function has got to be at a function and therefore it's got to return a value for this to do anything useful so if you change if you can get rid of the bracket there because it's not print anymore that's returned factorial. 
+What you could also do if you really wanted to because she could do my = 4 and add and print factorial. 
+Some you printing ends up some it is telling you to return in the pseudocode. 
+At the bottom are you supposed to print so. 
+Not today. 
+The first one was in order pre-order. 
+What is 60. 
+You've got your first. 
+Do you have. 
+How to order that's why. 
+Take me to the feedback on your homework but i haven't done yet. 
+24 x 9. 
+What's the difference. 
+Right ok so if i'm really horrible and give you too soon on multi-gas questions all of them if that's what i'm just saying. 
+Using a priority queue should demonstrate the knowledge of how the functions and discuss its suitability in your answer so should get rid of that will give you some questions and then get the other ones. 
+Putting some definition questions one where you've got to type still got a type of definition that's fine not 55 term definitions 9 1 2 3 mark questions and 147. 
+What. 
+That's fine just the thought is that paul's so this is right this is free so priest is coming up so i see you on. 
+That's a pre-order traversal and that one yeah that's just so that's correct. 
+What you said last time you talked about it you weren't familiar with the idea of having the ends of tree once you have practically actually coded and trees. 
+I don't think what was the binary search tree ok. 
+Ok so yeah yeah. 
+Ok next one so adnams index equal to the length of numbers -1 ok. 
+You might be interesting to see whether it should be the length of numbers numbers because of the word python works but will see some plus numbers return some so print adnams adnams for so. 
+What's that function supposed to be doing because numbers has only got one number with the way you're doing it. 
+So adnams is an iterative routine to summer list of numbers so you're putting in a list of numbers like that 360 to 8 and 1 and then it should it should return that number which you don't need to print so if i take that to adam. 
+This one's out mum's had nums the first one so if i do have had a change your code. 
+Add mum's 3 + 6 + 9 + 2 is 11 + 8 is 19 + 1 + 9 + 2 is 11 + 8 is it hasn't worked because of that you don't need to do the. 
+What you need to do the numbers because of my python operates in a list of numbers 3 + 6 is 9 + 2 is 11 + 8 is 19 + 1 + 20 if we run it it's ok. 
+And then the next one is doing the same thing is it at num so the first one isn't doing a recursively it was just running through the list that the one underneath it. 
+So adam numbers for if length of numbers is 1 return number 0 fine return number 0 + adnams numbers one to the end ok. 
+Yes it's removing the first thing from the from the list each time and then doing again and again and again on the list. 
+Which so this is this is creating a list called marks that is a signing the output of your program adnams to a variable called total using the list that you've got of marks out so. 
+And you could have done it in one line with print adnams bracket 301 right traverse these are the ones now that are you done the first one ok so. 
+Yeah but you just pop in the phone anyway so that first one which is and have you got several traverses that was what george was saying so if we do trees fine so if they call that one. 
+Traverse yes so in here that needs to be closed. 
+Type of traversal is the function registered sugars in order. 
+Ok so good on the bottom and it just reverse 0 that's fine by running it till happens nothing. 
+Say tree got left is not even - 1 traverse creepy left that returned so just looking at that is going it. 
+A tree got left is not even - 1 traverse creepy left that returned so just looking at that is going to hear that. 
+Ok is that that's just printing it out from this. 
+Ok sophie oh it didn't work because you have dry rather than right there. 
+Thanks i'm guessing that so that was that was the normal traverse some country he left so that's before the pre-order feed updater. 
+That's fine that's the same problem that needs to go in to go in that should work shouldn't pre-order traverse so. 
+Preorder traversal. 
+Is aftersun. 
+All works except for 0 and a and a missing the right so zz and but you're indentations through so what you need to do is where you reach. 
+When you reach things up that and if that means taking them. 
+And overcome the problems with ok that makes sense. 
+Trees trees are one of the abstract data types. 
+Christmas powerpoint. 
+What is 24 of 24 is 15 to the left of 24 is item number one hears item number 12 number 1 is 15 so the left and right are addresses the middle. 
+Yep so i'm on the 15th on the left of 15 is 5 which is 9 on the right of 15 is 2 days to the 17th and then there's nothing to the left and right of 17 so it's not a null value. 
+And that's the thing up when i set it up in replit that was the thing around here so there's the data is going 12352 in threes that's the data going and i just put it in that was easy for me. 
+Can you remember that's the thing when i set it up as a class called record and again you were getting annoyed that little bit because you were thinking that's ok i don't like ok ok so the other comment i would make to you is 18 up liking you need to brexit and something like that. 
+Double underline. 
+But python doesn't let you do that so python there is no such thing as private data. 
+And then down here we just creating a record by calling it in that way with data 131 happy as well i'm guessing you all happy with that what you doing. 
+For i in range and you do it like that it's going from 0 so from the start of this list. 
+550 and 2 - 117 and - 138 and 6 going through a list in steps of 3 steps. 
+3 6 9 12 15 21. 
+Bring an extra character turn that's why you've got to dance anything else from this is it all. 
+What are the three properties that reversible britain's got to have. 
+Why was 69 factorial a problem with the calculator. 
+How do you do that i can't do that there's a formatted what we doing. 
+997 factorial. 
+Yeah but i don't like that. 
+You can do decimals and precision ok ok that's good that's where you going to go so. 
+Right. 
+Right that's what you want. 
+The number to you collected percentage to show the to show them to do the formatting wait that's only i just wondered whether because in other in other languages percentage g is standard form. 
+There is nothing like it's the same so in in the old style printing that worked in python 2.7. 
+There is nothing like it's the same so in in the old style printing that worked in python 2.7 you could do that that type of formatting as well. 
+Set my suspect percentage with work in that in that one as well i'm going to try it. 
+Pyg. 
+And he came to genius train. 
+Quite cross. 
+So don't you. 
+With python. 
+Invalid format specifier. 
+So it's picking up my spotify so what am i done wrong and if that is the last thing that i haven't used before you did it turn. 
+That's why i do not go back. 
+You could be doing your homework. 
+Interesting outside of the. 
+Print print name peter is age right that's so that we understand that. 
+Print print name peter is age right that's so that we understand that that was the first one do. 
+Send it the old way of doing so we can always do that so if i was the old way of printing these things so if i do that friends if i do percentage just like that. 
+That should work so i can do on here and it does it to two decimal places. 

@@ -1,0 +1,76 @@
+Turn off my page there's a set of objects of objects of values and be able to derive the time complexity of an algorithm ok i would suggest that the logarithmic functions and the constant linear and polynomial functions are all of. 
+So we can someone that the number so you can write down at the title how we going to do this. 
+It's finished now. 
+Location on this but you can tell me in a minute when you've done all the numbers 1 to 2000 using the following algorithm there it is all we can use the single statement which is some = 1000 x 1000 +. 
+It's a very very simple if you look at it it's basically saying you've got a thousand you've got one yeah and he / 2 that's your average value and many x 1000. 
+That's the average value of the thousand things this is the number of the number of data points so that the the sun or you can go through iterate through 1000 items and add each one to the to the sun to get some which is the more efficient way to do it. 
+Doing things the way that you would do as a computer scientist or as a programmer it's really helpful to have a mathematical head on you to be thinking what does a match mate so that's one step that's 1000 steps that's going to take the normal roughly 1000 of the time of that one yeah. 
+The number of assignments take to get to the first album of them as 1001 that's because you've got the the sun equals 0 number summary for some plus account and x in the second only to to staples and needed and is 1000mm that one the number of assignment statement is a good. 
+Why is that what's an assignment statement doing something. 
+Where is it the number of assignment statements in some code is a good measure a good basic measure of a fishing. 
+Right ok so the most problems the larger the size of the problem amount of data the longer the execution time so something = 12 nn4 how many statements in the second algorithm some equal some. 
+So what's that saying this is just isn't it. 
+X and plus one if that's going in there then they're saying that that going to be and squared isn't it there's more steps because it happened to have two lots of going i think. 
+That's wrong because i summon you get rid of that statement that's where they want you to end up so a function is defined by an equation. 
+And if you're going to put that into a into into code will be producing something like this so why cos 3x + 2 can be written also as funk is a function of n which equals 3 and + 2 and where they're going to go with they're going to go into whether something to check whether it's. 
+And this is the graph that you're talking about po function takes the form f n = a m + b where a and b are constants ok and you write the order of magnitude for a linear function as 0en. 
+Off the function so in terms of time if you double the time you double it if you double the number of items which are looking at you double the time. 
+Go to that example you're basically adding the counter every time if you have twice as many items to come through so if any is 1500 it's going to take twice as long if it is if it is 2500. 
+No variables in it at all then it's only ever going to have one value it's not it doesn't matter it's always so that's where it was confusing me going it was going towards the idea of a linear function. 
+Linear function taking the form of fm it was a m + b where a and b are constants examples but then the order of magnitude lower no it's not that as well if one is a constant function and get f1 stays the same size ok after the n is a linear function. 
+So when you crockett.and function a linear function. 
+Turn the upper thames order of magnitude of a quadratic function is written as big o and square the dominant term is the one used when comparing algorithms so we ignore the bmmc terms so the thing which is determining the order of magnitude of the result. 
+And squared if you go back to that one which was confusing earlier this one that's what i think they were getting out there but should have been inside code i think they. 
+They just copy the slide because of that one ok here should have had in there i think they meant to have that and that's comparable but it wasn't. 
+There were two different functions one was a quadratic the other one was ok. 
+Then it's actually very easy to determine where what the order of the function is whether it's static linear or quadratic i would this when it's embedded in code and you've got to understand what the code is doing. 
+Is that a brand having the alien the alien thing on the front. 
+But i don't think i'm not sure. 
+Generic is the cheapest to get off amazon. 
+Laptop. 
+When we get to do the worksheet of the second time. 
+In terms of the answers to this when you start looking at it they say in the dublin facts and approximately and. 
+Ok a logarithmic function takes this form and fn because i love and and and. 
+Rhythm of a number is the power to which the base must be raised to make the equal to that number. 
+So 100084 so log of the base 10. 
+Set basically giving you the index in the simplest case so this is 3 so it's giving you the. 
+Log to the base 2 of 3 ^ 1. 
+What this means if you're taking very very large numbers you take logs of them you certainly start getting quite manageable numbers out and you can plot there's graph so log log graph semi-log plots i used a lot in physics i guess they might be used for large datasets and economics and business as well. 
+We used to do this in the second year of school when i was when i was a child it's just a function on the calculator and you just type it in like you would. 
+To get tables as a second year so the tables had log tables and sine cos and tan in them and we were expected to use that book of tables for the next four years and we weren't expected use calculators we had calculators dead recently come in but he hasn't really moved time. 
+I never said i'm trying to get it yeah yeah if you look at it exactly the same thing. 
+Log to the base 2 of 1024 is 10 springs. 
+Those things that you can press the middle of the same as this but with bass to but the key thing is that the function increases very slowly in relation to end in maths do you do natural logarithms as well. 
+What you find it university of what i found computing university is at university day if you haven't got the number 10 in there and someone writes log there is humanism. 
+I have no i don't know i don't know university by natural logs and and the exciting and yeah they do like boiler you left whatever his name is. 
+That's a person after whom the kids are named but there's nothing to do. 
+Is a measure of the time complexity of an algorithm approximations of george that goes back to what you were just saying it's just an approximation of the time taken to execute an algorithm for a given number of items in the dataset and algorithm of time complexity 0 to the end increases in a linear way so 10000 items. 
+You wouldn't right that he's got a time complexity of 2n + 1 b just say um it's giving you order of magnitude estimates apply for it ok. 
+Just to let you know the other thing i'm going to do for the 40 years and the lower 6 find all of the worksheet together so they've got more than one place rather than being loose feel like like like this is the same idea. 
+The beast you've got if you got very few sections to go but i can do the same thing i'm finding together all the rain the rain due to you as well so there in a booklet that help i'm having my sheets. 
+Looking at this algorithm. 
+What's the number of steps in this algorithm. 
+11. 
+4 + 1. 
+This is an that three times within the algorithm has a time complexity big o of an and then they come for you there's there's the one. 
+Ok so although it's taking just over 4 times as long as just for an equals range sorry for. 
+This does make sense of it makes more sense. 
+The function of 2 + 1 in the equation of the function down. 
+Approximation of the order of the time function in the equation and saying this isn't time. 
+Constance so you are saying if something is going to take twice as long but if you were if it's an as opposed to n squared then you're putting in 10 values than 10 values is going to be 10 or 20 but if it's 10 squared it's going to be going up. 
+Constant or whether it's going up in a quadratic way. 
+Constant or whether it's going up in a quadratic way for a ban. 
+Only 11 items need to be examined so time complete complexity increases very slowly as the dataset goes up so that's lovely rhythmic it's big o log n get if you can do that if you can find something that works that way you want to do it that way yeah. 
+So this is helping you to select the most efficient algorithms and also to be aware of whether something scales well. 
+When people do things like writing websites if they put in function that don't scale well that's when your website falls over you like being like an old english sheepdog sheepdog. 
+The moment dr spring school of hair. 
+Obviously if you do have some launches.end bob if you login i'm guessing the function as in you need to have a time complexity. 
+Because then you still got that probably that issue with each time you double your wwe number of values you having to look at so you you would end up going up as a linear function so it's a bit like the end square. 
+Who was saying that you got at the end of the dominant function if you had and then i'm not sure it's a good question. 
+Set it so when you start doing yet functions you can have a squared and cubed. 
+Ok see you are saying that you have done this news on this fully not just the way you've actually done this examples of struggling to understand why. 
+Pronounce. 
+Used to be a convent school so tremough with the site with a university is used to be a convertible and so it's called tremough what's the capital of catholic foundation like we're methodist foundation and it run by nuns. 
+Is connected to a computer is connected to a printer. 
+You've got boxing. 
+€20 volume. 

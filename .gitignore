@@ -1,0 +1,21 @@
+node_modules
+*.log
+.next
+app
+notionsrenv
+package-lock.json
+Caesar Old
+build
+CaesarAudioWAVs
+*.wav
+Miscallenouse Translate
+Miscallenouse 
+caesaraienv
+caesaraineuralnetenv
+dist
+caesarai
+caesartorchenv
+glove.6B.300d.txt
+
+new_intent_data
+intent_data

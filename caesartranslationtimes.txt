@@ -1,0 +1,9 @@
+caesartranslatetime0=0:22:40.848751,minimumsilence=125,keepsilence=400
+caesartranslatetime0=0:16:10.485189,minimumsilence=250,keepsilence=200
+caesartranslatetime1=0:16:51.993884,minimumsilence=250,keepsilence=300
+caesartranslatetime0=0:02:02.430773,minimumsilence=250,keepsilence=200
+caesartranslatetime0=0:25:37.219917,minimumsilence=250,keepsilence=200
+caesartranslatetime0=0:26:58.225477,minimumsilence=250,keepsilence=200
+caesartranslatetime0=0:22:04.614713,minimumsilence=250,keepsilence=200
+caesartranslatetime0=0:10:17.711921,minimumsilence=250,keepsilence=200
+caesartranslatetime0=0:08:35.710491,minimumsilence=250,keepsilence=200

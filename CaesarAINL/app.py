@@ -15,8 +15,8 @@ def caesarapi():
         return "Caeser: Hello sir, this is the CaesarAIAPI"
     elif request.method == "POST":
        user_input_json = request.get_json()
-       from caesarinfer import CaesarNL
-       caesarResponse,intents = CaesarNL.run([user_input_json["caesarapi"]])
+       #from caesarinfer import CaesarNL
+       #caesarResponse,intents = CaesarNL.run([user_input_json["caesarapi"]])
        return {"caesarmessage":{"caesarResponse":caesarResponse,"intent":intents}}
 
 if __name__ == "__main__":

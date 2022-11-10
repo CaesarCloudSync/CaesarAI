@@ -20,5 +20,4 @@ def caesarapi():
        return {"caesarmessage":{"caesarResponse":caesarResponse,"intent":intents}}
 
 if __name__ == "__main__":
-    print(tf.__version__)
     app.run(debug=True,host="0.0.0.0",port=5000) # 

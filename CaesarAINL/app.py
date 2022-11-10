@@ -2,12 +2,14 @@ from flask import Flask,request
 from flask_cors import cross_origin
 from caesarinfer import CaesarNL
 app = Flask(__name__)
-cross_origin()
+
 @app.route("/",methods=["GET"])
+@cross_origin()
 def caesarhome():
     return "Caeser: How can I help you sir?"
-cross_origin()
+
 @app.route("/caesarapi",methods=["POST","GET"])
+@cross_origin()
 def caesarapi():
     if request.method == "GET":
         return "Caeser: Hello sir, this is the CaesarAIAPI"
@@ -17,4 +19,4 @@ def caesarapi():
         return {"caesarmessage":{"caesarResponse":caesarResponse,"intent":intents}}
 
 if __name__ == "__main__":
-    app.run(debug=True) # ,host="0.0.0.0"
+    app.run(debug=True,host="0.0.0.0",port=5000) # 

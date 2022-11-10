@@ -46,11 +46,11 @@ class CaesarNL:
     if intents[0] in greetings:
       greetresponse = random.choice(responses["Greeting"]).replace("<HUMAN>",stored_name)
       #print(greetresponse)
-      return greetresponse
+      return greetresponse,intents[0]
     else:
       response = f"response to be implemented for text:{userinput}, predicted intent:{intents[0]}"
       #print(response)
-      return response
+      return response,intents[0]
     #elif len(sys.argv) < 2:
     #response = "What is it, sir?"
     #print(response)
@@ -58,8 +58,9 @@ class CaesarNL:
       
 
 if __name__ == "__main__":
-  userinput = "Hello"
-  greetresponse = CaesarNL.run(userinput)
+  userinput = ["Hello"]
+  response,intents = CaesarNL.run(userinput)
+  print(response,intents)
 
 
 

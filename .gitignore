@@ -14,8 +14,11 @@ caesaraienv
 caesaraineuralnetenv
 dist
 caesarai
-caesartorchenv
+glove.6B.300d_should_be_here.txt
 glove.6B.300d.txt
-
-new_intent_data
-intent_data
+*.csv
+*.json
+*.txt
+*.xlsx
+*.pyc
+caesarmodel

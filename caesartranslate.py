@@ -140,7 +140,7 @@ class CaesarTranslate:
                 # 7 seconds - 3 minutes
                 #print(duration)
                
-                minute_intervals =  0.5#or 0.50 # TODO Try 1,2 and 3 and see which is the most optimized by seeing themost words/letters collected.
+                minute_intervals = 0.5# 0.15 or 0.50 # TODO Try 1,2 and 3 and see which is the most optimized by seeing themost words/letters collected.
                 percentages = [i * (minute_intervals/duration) for i in range(0,int(duration//minute_intervals))]
                 #print(percentages)
                 #percentages = [i/20 for i in range(0,20)]# 0.8

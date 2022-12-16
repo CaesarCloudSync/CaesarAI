@@ -141,7 +141,7 @@ class CaesarNotes:
         # the file name output you want to record into
         if len(sys.argv) == 2:
             if sys.argv[1] == "help":
-                print("CaesarAI Notes Help: runcaesar <filename> <duration_seconds> <subject>")
+                print("CaesarAI Notes Help: runcaesar <filename> <duration_seconds> <subject> <translate>")
             
         if len(sys.argv) <= 1:
             print("Type in your text file name as an argument.")

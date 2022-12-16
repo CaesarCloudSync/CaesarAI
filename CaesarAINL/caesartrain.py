@@ -8,7 +8,6 @@ import pandas as pd
 import tensorflow as tf
 import tensorflow_hub as hub
 import tensorflow_text as text
-import seaborn as sns
 from pylab import rcParams
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import LabelBinarizer

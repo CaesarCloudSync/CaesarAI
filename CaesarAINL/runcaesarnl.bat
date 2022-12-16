@@ -1,1 +1,1 @@
-"C:\Users\amari\.conda\envs\caesaraienv\python.exe" "D:\CaesarAI\CaesarAINL\caesarnl.py"
+"C:\Users\amari\.conda\envs\caesarinfer\python.exe" "D:\CaesarAI\CaesarAINL\caesarnl.py"

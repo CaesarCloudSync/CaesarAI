@@ -1,10 +1,11 @@
 import sys
 import json
-import spacy
+#import spacy
 import pickle
 import random
 import tensorflow as tf
 import tensorflow_hub as hub
+from datetime import datetime
 import tensorflow_text as text
 from sklearn.preprocessing import LabelBinarizer
 
@@ -22,7 +23,7 @@ from sklearn.preprocessing import LabelBinarizer
 # 2. Create new Neural Network that detects that. * Have to determine the relationship between the entites 
 
 
-greetings = ["Greeting","smalltalk_greetings_hello"]
+greetings = ["Greeting","smalltalk_greetings_hello","greeting"]
 courtesy_greeting = ["CourtesyGreeting"]
 
 class CaesarNL:
@@ -31,10 +32,11 @@ class CaesarNL:
     #if len(sys.argv) == 2:
     #userinput = [sys.argv[1].lower()]
     stored_name = "Amari"
-    classifier_model = tf.keras.models.load_model('caesarmodel/caesarnl.h5',custom_objects={'KerasLayer':hub.KerasLayer})
+    classifier_model = tf.keras.models.load_model('caesarmodel/caesarnl',custom_objects={'KerasLayer':hub.KerasLayer})
 
     # Show the model architecture
     results = tf.nn.softmax(classifier_model(tf.constant(userinput)))
+    print(results.shape)
     with open("caesarmodel/labelbinarizer.pkl","rb") as f:
         binarizer = pickle.load(f)
 
@@ -46,7 +48,7 @@ class CaesarNL:
     if intents[0] in greetings:
       greetresponse = random.choice(responses["Greeting"]).replace("<HUMAN>",stored_name)
       #print(greetresponse)
-      return greetresponse,intents[0]
+      return greetresponse, intents[0]
     else:
       response = f"response to be implemented for text:{userinput}, predicted intent:{intents[0]}"
       #print(response)
@@ -58,9 +60,10 @@ class CaesarNL:
       
 
 if __name__ == "__main__":
+  # Takes 17 seconds
   userinput = ["Hello"]
-  response,intents = CaesarNL.run(userinput)
-  print(response,intents)
+  greetresponse,intents = CaesarNL.run(userinput)
+  print(greetresponse,f"intent:{intents}")
 
 
 

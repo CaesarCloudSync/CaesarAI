@@ -22,3 +22,4 @@ glove.6B.300d.txt
 *.xlsx
 *.pyc
 caesarmodel
+*env
